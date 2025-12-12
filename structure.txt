@@ -1,0 +1,24 @@
+Folder PATH listing for volume Local Disk
+Volume serial number is F071-0D60
+C:.
+¦   db.json
+¦   db.sqlite3
+¦   README.md
+¦   requirements.txt
+¦   structure.txt
+¦   vercel.json
+¦   
++---api
+¦   ¦   db.json
+¦   ¦   db.sqlite3
+¦   ¦   index.py
+¦   ¦   urls.json
+¦   ¦   
+¦   +---__pycache__
+¦           index.cpython-312.pyc
+¦           
++---frontend
+        index.html
+        script.js
+        style.css
+        
