@@ -1,4 +1,4 @@
-const API_BASE = "https://balanced-analysis-production.up.railway.app";
+const API_BASE = "https://stlk.up.railway.app";
 
 const btn = document.getElementById("shortenBtn");
 const input = document.getElementById("urlInput");
